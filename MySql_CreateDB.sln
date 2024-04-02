@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySql_CreateDB", "MySql_CreateDB\MySql_CreateDB.csproj", "{C9002A89-17E7-42B9-9C69-0051B8215EE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySql_CreateDBTest", "MySql_CreateDBTest\MySql_CreateDBTest.csproj", "{BA33B994-C197-4860-A9C8-4FEC1B43E583}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9002A89-17E7-42B9-9C69-0051B8215EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9002A89-17E7-42B9-9C69-0051B8215EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9002A89-17E7-42B9-9C69-0051B8215EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9002A89-17E7-42B9-9C69-0051B8215EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA33B994-C197-4860-A9C8-4FEC1B43E583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA33B994-C197-4860-A9C8-4FEC1B43E583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA33B994-C197-4860-A9C8-4FEC1B43E583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA33B994-C197-4860-A9C8-4FEC1B43E583}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {970321CD-1166-4E9E-A43A-616BC4A15441}
+	EndGlobalSection
+EndGlobal
